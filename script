@@ -1,0 +1,8 @@
+local HWID = game:GetService("RbxAnalyticsService"):GetClientID()
+
+local TABLE = loadstring(game:HttpGet("https://raw.githubusercontent.com/Xactver/w2Az91mz82x/main/381839123819238147"))()
+for i,v in pairs(TABLE) do
+	if v == HWID then
+	
+	end
+end
